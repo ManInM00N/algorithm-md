@@ -6,7 +6,7 @@
 
 
 
-![]()
+![](https://github.com/ManInM00N/algorithm-pic/blob/master/%E7%BB%98%E5%9B%BE2.jpg)
 
 ​												递推示意图↑（下图a数组对应上图C数组）
 
