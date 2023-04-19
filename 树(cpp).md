@@ -6,7 +6,7 @@
 
 
 
-![]()
+![https://github.com/ManInM00N/algorithm-pic/blob/master/graph.gif]()
 
 ​												递推示意图↑（下图a数组对应上图C数组）
 
