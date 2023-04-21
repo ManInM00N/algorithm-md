@@ -43,7 +43,7 @@ ll getnum(ll i){
 
 ​		适用于单点/区间修改，单点/区间查询(范围>树状数组) 
 
-![](https://github.com/ManInM00N/algorithm-picture/blob/master/graph.gif)
+![](https://github.com/ManInM00N/algorithm-picture/blob/main/graph.gif)
 
 ​														建树顺序↑（灵魂画师来咯）
 
